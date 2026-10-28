@@ -15,7 +15,7 @@ The project started as my own independent danmaku shooter with my own scenario. 
 
 3. Why sprites have purple marks on the edges
 
-The game treats pure magenta (255, 0, 255) as the transparent color. My photo editor blends the edges of the sprites with their background when it saves them, so some edge pixels end up as a purple or pink shade instead of exact magenta. Those pixels are not made transparent, so you see purple marks around the characters. This is a problem with my photo editor that I could not fix. It is only a visual flaw of the sprites and it does not affect gameplay. If a sprite looks wrong, the game draws a simple colored shape instead when the image file is missing.
+The game treats pure magenta (255, 0, 255) as the transparent color. My photo editor blends the edges of the sprites with their background when it saves them, so some edge pixels end up as a purple or pink shade instead of exact magenta. Those pixels are not made transparent, so you see purple marks around the characters. This is a problem with my photo editor that I dunno how to fix. It is only a visual flaw of the sprites and it does not affect gameplay. If a sprite looks wrong, the game draws a simple colored shape instead when the image file is missing.
 
 
 HOW TO LAUNCH THE GAME
