@@ -7,7 +7,7 @@ ABOUT THIS PROJECT
 
 1. Why the text is in Japanese
 
-The dialogue is written in Japanese on purpose. I use this game to train my Japanese. Reading the lines while I play helps me connect new words and phrases to scenes I remember from the game, so they stay in my head better. The dialogue is stored in dialogue.txt (UTF-8), so you can edit or translate it freely.
+The methods is written in Japanese on purpose. I used this project to train my Japanese a little bit.
 
 2. This is not a copy of the original game
 
@@ -20,7 +20,7 @@ The game treats pure magenta (255, 0, 255) as the transparent color. My photo ed
 
 HOW TO LAUNCH THE GAME
 
-open the .exe file
+open the .exe file :/
 
 
 CONTROLS
