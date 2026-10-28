@@ -1,0 +1,20 @@
+[PRE]
+M|I wonder where the entrance is...
+E|Oh my. Humans are not allowed to come inside!
+M|!! Who's there?
+E|Me? I'm the guardian here, Elly.
+M|Perfect timing. Where's the entrance?
+E|I'm the guardian here!!
+E|Goodness, first it's the shrine maiden, and now you. I've had enough of you humans!
+M|A shrine maiden!? That must be Reimu.
+M|And I'm betting you lost to that shrine maiden.
+E|No way! There's no way I'd lose to a mere human... (sweating profusely)
+M|Hmm. I see, is that so?
+E|I couldn't help it! (sweat)
+E|It's been a long time since the last time I fought. (sweat)
+E|A-anyway. I won't lose to you!!
+E|I'm serious this time!!
+
+[POST]
+E|I lost again! (sweat)
+M|Time to tail Reimu! I'm not letting her get there first!!
