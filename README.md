@@ -7,7 +7,7 @@ ABOUT THIS PROJECT
 
 1. Why the text is in Japanese
 
-The methods is written in Japanese on purpose. I used this project to train my Japanese a little bit.
+The methods is written in Japanese on purpose. I used this project to practice my Japanese a little bit.
 
 2. This is not a copy of the original game
 
